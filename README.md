@@ -43,43 +43,43 @@ Azure Application Inaights is been added which can monitor Azure cloud service a
  3. Go to view Resource and navigate to Quick start and go to QnA Portal.
  4. Add appropaite details and fill the knowledge base
 
-![Tasks](images\KB.jpg)
+![Tasks](images/KB.jpg)
 
 5. Press Create.
 6. With Knowledge base editor we  add new sets of QnA or Configure the questions.
 7. We navigate to *save and train* to save the changes.
-![Tasks](images\testKB.jpg)
+![Tasks](images/testKB.jpg)
 8. We Publish the Bot by navigating to publish.
 
 To Publish we need Azure bot service. QnA portal will redirect to create Web App For Bot (Azure bot service) which will host the bot and provide  tools for deployment services. We either create a new service or link a exisiting service.
 
 *Azure Bot Service*
 1. We create a azure bot service from Azure portal.
-![Tasks](images\botservice.jpg)
+![Tasks](images/botservice.jpg)
 
 2. In Azure Bot Service Under settings we go to channels copy the embeded code and secrete  and replace 'YOUR_SECRET_HERE' in embed code with secret key and paste in html file.
 
 
  (Code:iframe src='https://webchat.botframework.com/embed/healthbotservice-bot?s=YOUR_SECRET_HERE'  style='min-width: 400px; width: 100%; min-height: 500px;'></iframe> )
 
-![Tasks](images\botkey.jpg)
+![Tasks](images/botkey.jpg)
   
 ## Creating website to host Azure Bot
 
 1. Create an html file and the embed code with secret key
 
-![Tasks](images\html.jpg)
+![Tasks](images/html.jpg)
 *Storage Account*
 1.   Again we navigate to storage account from Azure portal and create storage account.
 
 2.   In Storage Account Under Data Management we go Static webiste enable it. we add document name to *index.html* referring to our website html file and Save it.
 
-![Tasks](images\static.jpg)
+![Tasks](images/static.jpg)
 
 
 We successfully hosted our website
  
-![Tasks](images\web.jpg)
+![Tasks](images/web.jpg)
 
 Link: https://healthbotweb.z29.web.core.windows.net/
 
