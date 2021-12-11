@@ -12,6 +12,10 @@ People can easily search for queryor book an appointment  just by chatting with 
 
 The Project intregates simple bot which is made with QnA Maker in a static website  which help end users to equire about covid-19 related information.
 
+
+ ![Services](images/Bot-Services-QnAMaker-and-Knowledgebase.jpg)
+
+
 The following resources needs to be configured :
 
    Azure Components | Description
