@@ -38,7 +38,7 @@ Azure Application Inaights is been added which can monitor Azure cloud service a
 1. Create Azure resource from create resource and navigate to QnA Maker 
 2. Choose Free pricing tier, select appropaite location for App Service Plan, Azure search and Also enabled App insight  for Telemetry and chatlogs which  will be stored here.
    
- ![Tasks](images\QnA.jpg)
+ ![Tasks](images/QnA.jpg)
 
  3. Go to view Resource and navigate to Quick start and go to QnA Portal.
  4. Add appropaite details and fill the knowledge base
