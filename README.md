@@ -20,7 +20,7 @@ The following resources needs to be configured :
 
    Azure Components | Description
    -----------------|------------
-   ![Azure QnA Maker](images/qnamaker.png)  Azure QnA Maker  | QnA Maker is a no code way to build bots
+   ![Azure QnA Maker](images/qnamaker.jpg)  Azure QnA Maker  | QnA Maker is a no code way to build bots
    ![Azure Bot Service](images/AzureQnA.jpg) Azure Bot Service | Azure Bot Service is a managed bot development service.
    ![ Storage ](images/azureStorage.jpg)  Storage Account  | An Azure storage account contains all of your Azure Storage data objects : blobs, file shares, queues, tables, and disks. 
 
